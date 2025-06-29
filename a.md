@@ -15,3 +15,7 @@ Commit 모음  -> git commit
 무대 - 스테이지
 
 사진첩
+
+git add <filename> --> staging
+
+git commit -m 'blah' --> commit
